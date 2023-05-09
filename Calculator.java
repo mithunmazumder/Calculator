@@ -15,7 +15,8 @@ public class Calculator {
         {
             b=a1+a2;
             System.out.println("Addition: " + b);
-        }        else if (i==2)
+        }
+        else if (i==2)
         {
             b=a1-a2;
             System.out.println("Subtraction: " + b);
