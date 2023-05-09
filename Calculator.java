@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Calculator {
     public static void main(String[] args) {
-        int a1,a2,i,b;
+        double a1,a2,i,b;
         System.out.println("Enter the numbers: ");
         Scanner sc = new Scanner(System.in);
         a1 = sc.nextInt();
